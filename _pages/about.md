@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 
-**Postdoctoral Researcher** at UC San Diego [Jacobs School of Enginnering] [GRASP Lab](https://jacobsschool.ucsd.edu/){:target="_blank"}.
+**Postdoctoral Researcher** at UC San Diego [Jacobs School of Enginnering] (https://jacobsschool.ucsd.edu/){:target="_blank"}.
 
 
 I obtained my Ph.D. from the [Fulton School of Engineering](https://engineering.asu.edu/){:target="_blank"}, [Arizona State Universitiy](https://www.asu.edu/){:target="_blank"} in 2021, where I worked with [Professor Sze Zheng Yong](https://coe.northeastern.edu/people/yong-sze-zheng/){:target="_blank"} on guaranteed reachability analysis and state estimation of uncertain nonlinear systems, as well as resilient estimation in cyber-physical systems subject to different uncertainty models and malicious agents/attackers. My Ph.D. thesis: " Set-Valued Methods for Reachability Analysis and Estimation of Nonlinear Dynamical Systems" won the prestigious 2021 ASU Dean's Dissertation Award. 
