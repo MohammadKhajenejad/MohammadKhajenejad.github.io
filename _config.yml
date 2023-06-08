@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name:  
+first_name:  Mohammad
 middle_name: 
-last_name: Wanxin Jin
-email: wanxinjin@gmail.com
+last_name: Khajenejad
+email: mkhajenejad@ucsd.edu
 description: 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
