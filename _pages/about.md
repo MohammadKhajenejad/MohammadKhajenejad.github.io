@@ -66,14 +66,22 @@ We won the award for Basic and Applied Scientific Research (W911NF-17-S-0003-AI2
 -----
 #### **My Research**
 
-My research  focuses on developing <strong>interactive intelligence</strong>, which makes robots to
-- **seamlessly interact with humans**, by understanding human intent, assisting with human decision-making, improving
-its intelligence through human intuitive interactions, toward safe and personalized human-robot relationship; 
+#My research  focuses on developing <strong>interactive intelligence</strong>, which makes robots to
+#- **seamlessly interact with humans**, by understanding human intent, assisting with human decision-making, improving
+#its intelligence through human intuitive interactions, toward safe and personalized human-robot relationship; 
 
-- **skillfully manipulating physical objects**, by learning and planning with physical representations, 
-touching and affecting objects with maximum dexterity while ensuring safety and controllability, toward human-level physical intelligence.
+#- **skillfully manipulating physical objects**, by learning and planning with physical representations, 
+#touching and affecting objects with maximum dexterity while ensuring safety and controllability, toward human-level physical intelligence.
 
-I develop my solutions for interactive intelligence by combining a theoretical understanding of system fundamentals with empirical learning from readily accessible data. Our approaches are positioned at the intersection of control/optimization (model-based) and machine learning (data-driven), leveraging the complementary benefits of both.
+#I develop my solutions for interactive intelligence by combining a theoretical understanding of system fundamentals with empirical #learning from readily accessible data. Our approaches are positioned at the intersection of control/optimization (model-based) and machine #learning (data-driven), leveraging the complementary benefits of both.
+A large number of <strong>cyber-physical systems (CPS)</strong>, such as unmanned aircraft systems, smart power grids, industrial robots, intelligent robotic systems, autonomous vehicles, transportation networks, air traffic systems and supply chains, are characterized as collections of interacting subsystems with ambiguous or unknown models, and are acted upon by multiple decision makers with hard-to-model and heterogeneous intentions and behaviors(malicious, competitive, cooperative, stubborn). Such large scale systems are present in all societal sectors, from critical infrastructure, manufacturing and agriculture to service sectors.
+Motivated by this, my goal is to design <strong>distributed, tractable, robust, safe and private</strong> sequential decision-making algorithms in multi-modal and switched cyber-physical systems that are compromised by adversarial or malicious agents, and are subject to various forms of real-world uncertainties. 
+To accomplish this objective, I will leverage <strong>model-based control-theoretic</strong>, as well as <strong>data-driven learning approaches</strong> to develop:
+-**tractable and computationally efficient algorithms for reachability analysis,** 
+-**state and model estimation,**
+-**attack identification and mitigation,**
+-**verification and control synthesis in (partially) unknown networked cyber-physical systems.**
+
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
