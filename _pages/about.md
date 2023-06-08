@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 
-**Postdoctoral Researcher** at UC San Diego [Jacobs School of Enginnering] (https://jacobsschool.ucsd.edu/){:target="_blank"}.
+**Postdoctoral Researcher** at UC San Diego [Jacobs School of Engineering](https://jacobsschool.ucsd.edu/){:target="_blank"}, working with [Professor Sonia Martinez](https://jacobsschool.ucsd.edu/people/profile/sonia-martinez){:target="_blank"}.
 
 
 I obtained my Ph.D. from the [Fulton School of Engineering](https://engineering.asu.edu/){:target="_blank"}, [Arizona State Universitiy](https://www.asu.edu/){:target="_blank"} in 2021, where I worked with [Professor Sze Zheng Yong](https://coe.northeastern.edu/people/yong-sze-zheng/){:target="_blank"} on guaranteed reachability analysis and state estimation of uncertain nonlinear systems, as well as resilient estimation in cyber-physical systems subject to different uncertainty models and malicious agents/attackers. My Ph.D. thesis: " Set-Valued Methods for Reachability Analysis and Estimation of Nonlinear Dynamical Systems" won the prestigious 2021 ASU Dean's Dissertation Award. 
@@ -49,16 +49,10 @@ We won the award for Basic and Applied Scientific Research (W911NF-17-S-0003-AI2
 
 
 <center>
-    <a href = "mailto:wanxinjin@gmail.com" target="_blank"> 
+    <a href = "mailto:mkhajenejad@ucsd.edu" target="_blank"> 
     <img src="assets/img/platform_icon/email.gif" width="35" target="_blank"> </a>   &nbsp;&nbsp;&nbsp;
-<a href = "https://scholar.google.com/citations?user=SoEC4h4AAAAJ&hl=en" target="_blank"> 
+<a href = "https://scholar.google.com/citations?user=1i8Te2sAAAAJ&hl=en" target="_blank"> 
     <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
-<a href = "https://github.com/wanxinjin" target="_blank">
-    <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-<a href = "https://twitter.com/jinwanxin" target="_blank">
-    <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp;
-<a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
-    <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp;
 
 </center>
 
