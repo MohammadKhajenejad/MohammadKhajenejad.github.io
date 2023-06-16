@@ -170,7 +170,7 @@ among the most serious types of attacks on CPS, where malicious and/or strategic
 true mode of the system and/or inject counterfeit data signals into the sensors and actuators to cause damage.
 
 <img src="collections/research/rtopic2/rtopic2.png" width="150"  align="left" hspace="30" vspace=5 />
-**Simultaneous Input and State Set-Valued Observer Design for Several Classes of Nonlinear Sys-
+**2.1Simultaneous Input and State Set-Valued Observer Design for Several Classes of Nonlinear Sys-
 tems: Unknown Input Decomposition.** <br />
 
 I have designed tractable algorithms to simultaneously estimate the state and the data injection attack for several classes of nonlinear systems, assuming that the adversaries and uncertainties impact the system in the worst-case scenario, and no useful a priori knowledge, bound or distribution of the attack signals, nor any statistical characteristics for noise and disturbance signals are available. The main idea is to decompose the attack signal and the observation equation into two components, one affected and the other one unaffected by the attack signal, Further, I am leveraging the knowledge of physical system dynamics as an additional sensor to improve the estimates, which equips me with proper tools to develop attack identification approaches and to efficiently synthesize control signals to mitigate the effects of attacks in such settings.
@@ -190,7 +190,7 @@ systems. arXiv preprint arXiv:2102.10793, submitted, 2022.
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 ---
-<img src="collections/research/human/sparse_demo.gif" width="150"  align="left" hspace="30" vspace=10 />
+<img src="collections/research/rtopic2/rtopic2-2.png" width="150"  align="left" hspace="30" vspace=10 />
 **2.2 Multiple-Model: i) Bank of Mode-Matched Observers, ii) Mode Estimator, iii) Global Fusion.** <br />
 
 I aim to develop a multiple-model (MM) framework consisting of a i) bank of mode-matched observers to return input and state estimates for the given mode, ii) a mode estimator to determine either the most likely or all compatible modes based on the observations and iii) a global fusion estimators and mode observer. The MM framework further helps in providing unified algorithms for resilient state
@@ -202,23 +202,18 @@ uncertainty models: stochastic (aleatoric), set-valued (epistemic), and random s
 
 
 ---
-<img src="collections/research/human/ioc_incomplete.png"   width="150"   align="left" hspace="30" vspace=20 />
+
 **2.3Resiliency of Partially Unknown CPS: Set-Membership Learning Meets State Estimation.** <br />
 In this scenario, I plan to combine model-based set-valued estimation approaches that I have developed with set-membership
 learning techniques, to learn an approximation of the system dynamics while simultaneously estimating
 the system’s states and attacker’s policies.
 
-<b>Wanxin Jin</b>,  Dana Kulic, Shaoshuai Mou, and Sandra Hirche <br />
-*International Journal of Robotics Research (IJRR),* 40:848–865,
-2021 <br />
-[[PDF]](https://journals.sagepub.com/doi/full/10.1177/0278364921996384){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations){:target="_blank"}
 
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 
 ---
-<img src="collections/research/human/ioc_multiphase.gif"  width="190"  align="left" hspace="10" vspace=0 />
+
 **2.4Distributed Resiliency in Networked CPS with Heterogeneous and Strategic Agents.** <br />
 Armed with the theoretical tools that I have developed so far, I plan to study and design distributed active estimation,
 fault detection and mitigation, and control policy synthesis in uncertain networked CPS, where instead of only
@@ -233,7 +228,7 @@ types and beliefs minimize their privately known cost, by making decisions based
 ---
 Data privacy and protection have become a critical concern in the management of CPS, e.g., multi-agent robotic systems, and their public trustworthiness. In such applications, malicious agents, e.g.,robots, can expand their attack surface by extracting valuable information from the physical, control, and communication components of the system, inflicting damage on the CPS and its users. So, a great effort is being devoted to design robust data-security control strategies for these systems.
 
-<img src="collections/research/fundamental/pdp.gif"   width="160"  align="left" hspace="25" vspace=0 />
+<img src="collections/research/rtopic3/rtopic3.png"   width="160"  align="left" hspace="25" vspace=0 />
 **3.1 Alternative Designs of Privacy-Preserving Mechanisms.** <br />
 currently I am investigating alternative designs of privacy-preserving mechanisms, which can make the quantification of privacy and
 the associated performance loss tractable and reasonable, respectively. Next, utilizing such alternative designs, my objective is to propose tractable and private estimation, verification, control and resource allocation algorithms in networked CPS. In my preliminary results, I have leveraged a robust optimization approach to propose a functional perturbation-based privacy-preserving mechanism for nonconvex distributed optimization and characterize the best accuracy that can be achieved by an optimal perturbation.
@@ -247,7 +242,7 @@ https://ieeexplore.ieee.org/abstract/document/9995727
 
 
 ---
-<img src="collections/research/fundamental/safepdp.gif"  width="160"  align="left" hspace="25" vspace=0 />
+
 **3.2Guaranteed Privacy-Preserving Mechanism Design: Unknown (Private) Deterministic Func-
 tional Perturbations.** <br />
 Leveraging mixed-monotone inclusion functions, I plan to propose privacy-preserving mechanisms for distributed optimiza-
@@ -257,7 +252,7 @@ tion, verification, estimation and control, which are based on deterministic fun
 
 
 ---
-<img src="collections/research/fundamental/uncertainty_aware.gif"  width="160"  align="left" hspace="25" vspace=10 />
+
 **3.3 Inherently Private Distributed Nonconvex Optimization, Estimation, Verification and Control.** <br />
 Utilizing the notion of guaranteed privacy, I plan to propose inherently private distributed optimization, estimation, verification and control algorithms in adversarial networked environments, where convergence is guaranteed while valuable information is preserved. The goal is to design algorithms that are optimal in the sense that they minimize the corresponding inaccuracy of the networked CPS performance due to the perturbations, are robust against uncertainties in environment and models, and are resilient against changes in the adversary’s intention and knowledge of the system/setting.
 
