@@ -69,10 +69,10 @@ We won the award for Basic and Applied Scientific Research (W911NF-17-S-0003-AI2
 A large number of <strong>cyber-physical systems (CPS)</strong>, such as unmanned aircraft systems, smart power grids, industrial robots, intelligent robotic systems, autonomous vehicles, transportation networks, air traffic systems and supply chains, are characterized as collections of interacting subsystems with ambiguous or unknown models, and are acted upon by multiple decision makers with hard-to-model and heterogeneous intentions and behaviors(malicious, competitive, cooperative, stubborn). Such large scale systems are present in all societal sectors, from critical infrastructure, manufacturing and agriculture to service sectors.
 Motivated by this, my goal is to design <strong>distributed, tractable, robust, safe and private</strong> sequential decision-making algorithms in multi-modal and switched cyber-physical systems that are compromised by adversarial or malicious agents, and are subject to various forms of real-world uncertainties. 
 To accomplish this objective, I will leverage <strong>model-based control-theoretic</strong>, as well as <strong>data-driven learning approaches</strong> to develop:
--**tractable and computationally efficient algorithms for reachability analysis,** 
--**state and model estimation,**
--**attack identification and mitigation,**
--**verification and control synthesis in (partially) unknown networked cyber-physical systems.**
+- **tractable and computationally efficient algorithms for reachability analysis,** 
+- **state and model estimation,**
+- **attack identification and mitigation,**
+- **verification and control synthesis in (partially) unknown networked cyber-physical systems.**
 
 
 
@@ -88,18 +88,49 @@ To accomplish this objective, I will leverage <strong>model-based control-theore
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 
-##### **1. Multi-contact (Dexterous) Manipulation**
+##### **1. Guaranteed Reachability Analysis and State Estimation of Uncertain Nonlinear Systems**
 ---
 
 <img src="collections/research/manipulation/moving_webpage2.gif"  width="140"  align="left" hspace="30" vspace=0 />
 
-**Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
-<b>Wanxin Jin</b> and Michael Posa<br />
-Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 2023 <br />
-[[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
-[[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}/
-[[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}/
-[[Webpage]](../td_hybridreduction){:target="_blank"}
+**1.1 Constrained Reachability Analysis & Set-Valued State Estimation for Constrained Uncertain
+Systems.** <br />
+I have leveraged system properties such as mixed-monotonicity to propose a novel class of bounding
+functions, i.e, Tight Remainder-Form Decomposition Functions, that can be tractably computed. This enables us
+to obtain tight reachable sets (tubes) of state trajectories of a very broad class of non-smooth and discontinuous
+nonlinear systems subject to state constraints, observations and set-valued uncertainties, and facilitates
+designing efficient set-inversion algorithms.
+
+M. Khajenejad and S.Z. Yong. Tight remainder-form decomposition functions with applications to constrained reachability
+and guaranteed state estimation. in IEEE Transaction on Automatic Control, accepted, 2023.
+https://ieeexplore.ieee.org/abstract/document/10057091
+
+M. Khajenejad, F. Shoaib, and S.Z. Yong. Guaranteed state estimation via indirect polytopic set computation for nonlinear
+discrete-time systems. In 60th IEEE Conference on Decision and Control (CDC), pages 6160–6167, 2021.
+https://ieeexplore.ieee.org/abstract/document/9683626
+
+This has resulted in several set-valued stable (and optimal) observer designs for different uncertainty set characterizations, such as intervals , hyperballs, and polytopes:
+
+M. Khajenejad, F. Shoaib, and S.Z. Yong. Interval observer synthesis for locally lipschitz nonlinear dynamical systems via
+mixed-monotone decompositions. In 2022 American Control Conference (ACC), pages 2970–2975. IEEE, 2022.
+https://ieeexplore.ieee.org/abstract/document/9867741
+
+M. Khajenejad and S. Z. Yong. H∞-optimal interval observer synthesis for uncertain nonlinear dynamical systems via mixed-
+monotone decompositions. IEEE Control Systems Letters, 6:3088–3013, 2022.
+https://ieeexplore.ieee.org/abstract/document/9790824
+
+T. Pati, M. Khajenejad, S.P. Daddala, and S.Z. Yong. L1-robust interval observer design for uncertain nonlinear dynamical
+systems. IEEE Control Systems Letters, 6:3475–3480, 2022.
+https://ieeexplore.ieee.org/abstract/document/9803272
+
+M. Khajenejad and S.Z. Yong. Simultaneous input and state set-valued H∞-observers for linear parameter-varying systems.
+In American Control Conference (ACC), pages 4521–4526, 2019.
+https://ieeexplore.ieee.org/abstract/document/8814909
+
+M. Khajenejad, F. Shoaib, and S. Z. Yong. Guaranteed state estimation via direct polytopic set computation for nonlinear
+discrete-time systems. IEEE Control Systems Letters, 6:2060–2065, 2021.
+https://ieeexplore.ieee.org/abstract/document/9683626
+
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
 ---
