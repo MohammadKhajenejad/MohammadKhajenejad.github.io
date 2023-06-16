@@ -169,7 +169,7 @@ control has been accentuated by incidents of attacks on CPS. Specifically, mode 
 among the most serious types of attacks on CPS, where malicious and/or strategic attackers compromise the
 true mode of the system and/or inject counterfeit data signals into the sensors and actuators to cause damage.
 
-<img src="collections/research/rtopic2/correction.gif" width="150"  align="left" hspace="30" vspace=5 />
+<img src="collections/research/rtopic2/rtopic2.png" width="150"  align="left" hspace="30" vspace=5 />
 **Simultaneous Input and State Set-Valued Observer Design for Several Classes of Nonlinear Sys-
 tems: Unknown Input Decomposition.** <br />
 
