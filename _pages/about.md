@@ -91,7 +91,7 @@ To accomplish this objective, I will leverage <strong>model-based control-theore
 ##### **1. Guaranteed Reachability Analysis and State Estimation of Uncertain Nonlinear Systems**
 ---
 
-<img src="collections/research/rtopic1/Van_der_Coogan_v2.eps"  width="140"  align="left" hspace="30" vspace=0 />
+<img src="collections/research/rtopic1/rtopic1.png"  width="140"  align="left" hspace="30" vspace=0 />
 
 **1.1 Constrained Reachability Analysis & Set-Valued State Estimation for Constrained Uncertain
 Systems.** <br />
