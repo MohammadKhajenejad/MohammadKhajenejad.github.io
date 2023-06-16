@@ -237,42 +237,32 @@ Data privacy and protection have become a critical concern in the management of 
 **3.1 Alternative Designs of Privacy-Preserving Mechanisms.** <br />
 currently I am investigating alternative designs of privacy-preserving mechanisms, which can make the quantification of privacy and
 the associated performance loss tractable and reasonable, respectively. Next, utilizing such alternative designs, my objective is to propose tractable and private estimation, verification, control and resource allocation algorithms in networked CPS. In my preliminary results, I have leveraged a robust optimization approach to propose a functional perturbation-based privacy-preserving mechanism for nonconvex distributed optimization and characterize the best accuracy that can be achieved by an optimal perturbation.
+
 M. Khajenejad and S. Mart ́ınez. Guaranteed privacy of distributed nonconvex optimization via mixed-monotone functional
 perturbations. IEEE Control Systems Letters, 7:1081–1086, 2023.
 
+https://ieeexplore.ieee.org/abstract/document/9995727
 
 <p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
 
 
 ---
 <img src="collections/research/fundamental/safepdp.gif"  width="160"  align="left" hspace="25" vspace=0 />
-**3.1Alternative Designs of Privacy-Preserving Mechanisms.** <br />
-<b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas<br />
-*Advances in Neural Information Processing Systems (NeurIPS)*, 2021<br />
-[[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} / 
-[[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
-[[Videos]](https://slideslive.com/38968248){:target="_blank"}
+**3.2Guaranteed Privacy-Preserving Mechanism Design: Unknown (Private) Deterministic Func-
+tional Perturbations.** <br />
+Leveraging mixed-monotone inclusion functions, I plan to propose privacy-preserving mechanisms for distributed optimiza-
+tion, verification, estimation and control, which are based on deterministic functional perturbations of the local objective functions, and are proven to be stronger than probabilistic differential privacy. Subsequently, this will be used to guide the refinement of a guaranteed-private perturbation mechanism that can achieve a quantifiable accuracy via a theoretical upper bound that is shown to be independent of the chosen optimization, verification or estimation algorithms.
 
 <p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
 
 
 ---
 <img src="collections/research/fundamental/uncertainty_aware.gif"  width="160"  align="left" hspace="25" vspace=10 />
-**Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
-Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
-Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2023<br />
-[PDF coming soon] / 
-[Code coming soon] / 
-[Video coming soon]
+**3.3 Inherently Private Distributed Nonconvex Optimization, Estimation, Verification and Control.** <br />
+Utilizing the notion of guaranteed privacy, I plan to propose inherently private distributed optimization, estimation, verification and control algorithms in adversarial networked environments, where convergence is guaranteed while valuable information is preserved. The goal is to design algorithms that are optimal in the sense that they minimize the corresponding inaccuracy of the networked CPS performance due to the perturbations, are robust against uncertainties in environment and models, and are resilient against changes in the adversary’s intention and knowledge of the system/setting.
 
----
-<img src="collections/research/fundamental/keyidea.png"  width="160"  align="left" hspace="25" vspace=20 />
-**Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
-Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
-*International Conference on Machine Learning (ICML)*,  2023<br />
-[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}    / 
-[Code coming soon] / 
-[Video coming soon]
+
+
 
 
 
