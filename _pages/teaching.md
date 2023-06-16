@@ -1,1 +1,9 @@
-under construction
+
+---
+layout: page
+permalink: /teaching/
+title: teaching 
+description:
+nav: true
+---
+**under construction**
