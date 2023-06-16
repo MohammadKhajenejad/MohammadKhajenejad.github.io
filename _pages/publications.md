@@ -71,7 +71,6 @@ Under Review Journal Publications
 4. Khajenejad, M., Yong, S.Z. “Simultaneous Input and State Interval Observers for Nonlinear Systems with Rank-Deficient Direct Feedthrough.” European Control Conference (ECC), Rotterdam, The Netherlands (Virtual), pp. 2311–2316, 2021 (average acceptance rate: %68).
 
 5. Khajenejad, M., Cavorsi, M., Niu, R., Shen, Q., Yong, S.Z. “Tractable Compositions of Discrete-Time Control Barrier Functions with Application to Driving Safety Control.” European Control Conference (ECC), Rotterdam, The Netherlands (Virtual), pp. 1303–1309, 2021 (average acceptance rate: %68).
-
 6.Khajenejad, M., Jin, Z. and Yong, S.Z. “Interval Observers for Simultaneous State and Model Estimation of Partially Known Nonlinear Systems.” American Control Conference (ACC), New Orleans, LA (Virtual), pp. 2848–2854, 2021 (average acceptance rate: %67).
 
 7. Khajenejad, M. and Yong, S.Z. “Simultaneous Input and State Interval Observers for Non-
