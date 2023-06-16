@@ -8,17 +8,15 @@ nav: true
 ---
 
 
-#### Table of Contents
-
-- [Journals](#journals)
-- [Conferences](#conferences)
-- [Patents](#patents)
 
 
 <a name="journals"></a> 
 
 <br /> 
 
+###  **Book Chapters**
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+1. Khajenejad, M. and Yong, S.Z. “Resilient State Estimation and Attack Mitigation in Cyber-Physical Systems.” Security and Resilience in Cyber-Physical Systems: Detection, Estimation and Control, Springer, pages 149–185, 2022.
 
 ###  **Journals**
 
@@ -27,82 +25,35 @@ nav: true
 
 
 ---
-1. **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
-<b>Wanxin Jin</b> and Michael Posa<br />
-Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 2023 <br />
-[[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
-[[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}
-[[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}
-[[Webpage]](../td_hybridreduction){:target="_blank"}
+1. Khajenejad, M. and Yong, S.Z. “Tight Remainder-Form Decomposition Functions with Applications to Constrained Reachability and Guaranteed State Estimation.” IEEE Transactions on Automatic Control, 2022, accepted, (Impact Factor = 6.549).
+
+2. Khajenejad, M. and Yong, S.Z. “H∞-Optimal Interval Observer Synthesis for Uncertain Non-linear Dynamical Systems via Mixed-Monotone Decompositions.” IEEE Control Systems Letters (L-CSS), pages 3008–3013, vol. 6, 2022 (will be presented in CDC’22).
+
+3. Khajenejad, M. and Yong, S.Z. “Simultaneous State and Unknown Input Set-Valued Observers for Quadratically Constrained Nonlinear Dynamical Systems.” International Journal of Robust and Nonlinear Control, pages 6589–6622, vol. 32, issue 12, 2022 (Impact Factor = 3.897).
+
+4. Khajenejad, M. and Yong, S.Z. “Guaranteed State Estimation via Direct Polytopic Set Computation for Nonlinear Discrete-Time Systems.” IEEE Control Systems Letters (L-CSS), pages 2060–2065, vol. 6, 2022 (presented in ACC’22).
+
+5. Jin Z., Khajenejad, M. and Yong, S.Z. “Data-Driven Abstraction and Model Invalidation for Unknown Systems with Bounded Jacobian.” IEEE Control Systems Letters (L-CSS), pages 3421–3426, vol. 6, 2022 (will be presented in CDC’22).
+
+6. Pati T., Khajenejad, M., Daddala S.P. and Yong, S.Z. “L1-Robust Interval Observer Design for Uncertain Nonlinear Dynamical Systems.” IEEE Control Systems Letters (L-CSS), pages 3475–3480, vol. 6, 2022 (presented in CDC’22).
+
+7. Khajenejad, M., Jin, Z. and Yong, S.Z. “State and Unknown Terrain Estimation for Planetary Rovers via Interval Observers.” Advanced Intelligent Systems, 2100040, 2021 (Invited Paper).
+
+8. Hassaan, S.M., Khajenejad, M., Jensen, S., Shen, Q., and Yong, S.Z. “Incremental Affine Abstraction of Nonlinear Systems.” IEEE Control Systems Letters (L-CSS), vol. 5, vo. 2, pp. 653-658, 2021.
+Under Review Journal Publications
+
+
+### Under Review Journal Publications
+1. Khajenejad, M. and Yong, S.Z. “Simultaneous Mode, State and Input Set-Valued Observers for Switched Nonlinear Systems.” Automatica, 2022, under review.
+
+2. Khajenejad, M., Brown, S., and Mart ́ınez, S. “Distributed Interval Observers for LTI Systems with Bounded Noise.” IEEE Control Systems Letters (L-CSS), 2022, under review.
+
+3. Khajenejad, M. and Mart ́ınez, S. “Guaranteed Privacy of Distributed Nonconvex Optimization via Mixed-Monotone Functional Perturbations.” IEEE Control Systems Letters (L-CSS), 2022, under review.
+
+4. Khajenejad, M., Brown, S., and Mart ́ınez, S. “Distributed Resilient Interval Observers for Bounded-Error LTI Systems Subject to False Data Injection Attacks .” IEEE Control Systems Letters (L-CSS), 2022, under review.
 
 
 
-1. **Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
-Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
-Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2023<br />
-[PDF coming soon]/ 
-[Code coming soon]/
-[Video coming soon]
-
-
-
-
-
-1.  [**Learning from Human Directional Corrections**](https://arxiv.org/abs/2011.15014){:target="\_blank"}.<br />
-   <b>Wanxin Jin</b>, Todd D Murphey, Zehui Lu, and Shaoshuai Mou. <br />
-	_IEEE Transactions on Robotics (T-RO)_, 2022<br />
-	[[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} 
-	[[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} 
-	[[Videos]](https://youtu.be/Mwlwt055Tgg){:target="_blank"}
-
-
-1. **Learning from Sparse Demonstrations** <br />
-<b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
-*IEEE Transactions on Robotics (T-RO)*, 2022<br />
-[[PDF]](https://arxiv.org/abs/2008.02159){:target="_blank"}/
-[[Code]](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations){:target="_blank"} /
-[[Videos]](https://youtu.be/BYAsqMxW5Z4){:target="_blank"}
-
-
-1. **Inverse Optimal Control from Incomplete Trajectory Observations** <br />
-<b>Wanxin Jin</b>,  Dana Kulic, Shaoshuai Mou, and Sandra Hirche <br />
-*International Journal of Robotics Research (IJRR),* 40:848–865,
-2021 <br />
-[[PDF]](https://journals.sagepub.com/doi/full/10.1177/0278364921996384){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations){:target="_blank"}
-
-
-1. [**Distributed Inverse Optimal Control**](https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783){:target="_blank"} <br />
-<b>Wanxin Jin</b> and Shaoshuai Mou <br />
-_Automatica_, Volume 129, 2021 <br />
-[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783){:target="_blank"} 
-[[Code]](https://github.com/ZihaoLiang/Inverse-Optimal-Control-from-Demonstration-Segments){:target="_blank"}
-
-
-1. **Inverse Optimal Control for Multiphase cost functions** <br />
-<b>Wanxin Jin</b>, Dana Kulic, Jonathan  Lin, Shaoshuai Mou, and Sandra Hirche <br />
-*IEEE Transactions on Robotics (T-RO)*, 35(6):1387–1398,
-2019 <br />
-[[PDF]](https://ieeexplore.ieee.org/document/8778698){:target="_blank"} / 
-[[Code]](https://github.com/adaptivesystemslab/ioc){:target="_blank"}
-
-
-1. 
-[**Reference-Free Path-Walking Method for Ball Grid Array Inspection in Surface Mounting Machines**](https://ieeexplore.ieee.org/document/7878575){:target="_blank"} <br />
-<b>Wanxin Jin</b>, Weiyang Lin, Xianqiang Yang, and Huijun Gao  <br />
-_IEEE Transactions on Industrial Electronics (T-IE)_,
-64(8):6310–6318, 2017
-
-
-1.  [**A Line-based-Clustering Approach for Ball Grid Array Component Inspection in Surface-Mount Technology**](https://ieeexplore.ieee.org/abstract/document/7795199){:target="_blank"} <br />
-Huijun Gao, <b>Wanxin Jin</b>, Xianqiang Yang, and Okyay Kaynak<br />
-_IEEE Transactions on Industrial
-Electronics (T-IE)_, 64(4):3030–3038, 2016
-
-
-<p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
-
-<br /> 
 
 <a name="conferences"></a> 
 ### Conferences
@@ -111,76 +62,28 @@ Electronics (T-IE)_, 64(4):3030–3038, 2016
 
 ---
 
-2. **Learning Linear Complementarity Systems** <br />
-<b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
-*Learning for Dynamics and Control (L4DC)*, 2022 <br />
-[[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} / 
-[[Code]](https://github.com/wanxinjin/Learning-LCS){:target="_blank"}
+1. Khajenejad, M., Shoaib, F. and Yong, S.Z. “Interval Observer Synthesis for Locally Lips-chitz Nonlinear Dynamical Systems via Mixed-Monotone Decompositions.” American Control Conference (ACC), Atlanta, Georgia, pp. 2970–2975, 2022 (average acceptance rate: %67).
 
+2. Khajenejad, M., Jin, Z., and Yong, S.Z. “Resilient Interval Observer for Simultaneous Estimation of States, Modes and Attack Policies.” American Control Conference (ACC), Atlanta, Georgia, pp. 322–329, invited paper, 2022 (average acceptance rate: %67).
 
-2. **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
-<b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
-*Advances in Neural Information Processing Systems (NeurIPS),*  2020 <br />
-[[PDF]](https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} /
-[[Videos]](https://slideslive.com/38936632){:target="_blank"}
+3. Khajenejad, M., Shoaib, F. and Yong, S.Z. “Guaranteed State Estimation via Indirect Poly-topic Set Computation for Nonlinear Discrete-Time Systems.” IEEE Conference on Decision and Control (CDC), Austin, Texas (Virtual), pp. 6167–6174, 2021 (average acceptance rate: %56.7).
 
+4. Khajenejad, M., Yong, S.Z. “Simultaneous Input and State Interval Observers for Nonlinear Systems with Rank-Deficient Direct Feedthrough.” European Control Conference (ECC), Rotterdam, The Netherlands (Virtual), pp. 2311–2316, 2021 (average acceptance rate: %68).
 
+5. Khajenejad, M., Cavorsi, M., Niu, R., Shen, Q., Yong, S.Z. “Tractable Compositions of Discrete-Time Control Barrier Functions with Application to Driving Safety Control.” European Control Conference (ECC), Rotterdam, The Netherlands (Virtual), pp. 1303–1309, 2021 (average acceptance rate: %68).
 
-2. **Safe Pontryagin Differentiable Programming** <br />
-<b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas<br />
-*Advances in Neural Information Processing Systems (NeurIPS)*, 2021<br />
-[[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} / 
-[[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
-[[Videos]](https://slideslive.com/38968248){:target="_blank"}
+6.Khajenejad, M., Jin, Z. and Yong, S.Z. “Interval Observers for Simultaneous State and Model Estimation of Partially Known Nonlinear Systems.” American Control Conference (ACC), New Orleans, LA (Virtual), pp. 2848–2854, 2021 (average acceptance rate: %67).
 
-2. **Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics** <br />
-Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
-*International Conference on Machine Learning (ICML)*, 2023<br />
-[PDF coming soon] / 
-[Code coming soon] / 
-[Video coming soon]
+7. Khajenejad, M. and Yong, S.Z. “Simultaneous Input and State Interval Observers for Non-
+linear Systems with Full-Rank Direct Feedthrough.” IEEE Conference on Decision and Control (CDC), Jeju Island, South Korea (Virtual), pp. 5443–5448, 2020 (average acceptance rate: %56.7).
 
+8. Jin, Z., Khajenejad, M. and Yong, S.Z. “Data-Driven Model Invalidation for Unknown Lips-chitz Continuous Systems via Abstraction.” American Control Conference (ACC), Denver, CO (Virtual), pp. 2975–2980, 2020 (average acceptance rate: %67).
 
-2. **Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
-Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
-*International Conference on Machine Learning (ICML)*, 2023<br />
-[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}  / 
-[Code coming soon] / 
-[Video coming soon]
+9. Khajenejad, M. and Yong, S.Z. “Simultaneous Mode, Input and State Set-Valued Observers with Applications to Resilient Estimation against Sparse Attacks.” IEEE Conference on Decision and Control (CDC), Nice, France, pp. 1544–1550, 2019 (average acceptance rate: %56.7).
 
+10. Khajenejad, M. and Yong, S.Z. “Simultaneous Input and State Set-Valued H∞-Observers For Linear Parameter-Varying Systems.” American Control Conference (ACC), Philadelphia, PA, pp. 4521–4526, 2019.
 
-
-
-2. **Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions**<br /> 
-Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang<br />
-In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. **Best Student Paper Finalist** <br />
-[[PDF]](https://ieeexplore.ieee.org/document/9594324){:target="_blank"} 
-
-
-2. 
-**Cooperative tuning of multi-agent optimal control systems**<br /> 
-Zehui Lu, <b>Wanxin Jin</b>, Shaoshuai Mou, and Brian. D. Anderson<br />
-In _IEEE Conference on Decision and Control (CDC)_ , 2022. <br />
-[[PDF]](https://arxiv.org/abs/2209.12017){:target="_blank"} 
-
-2. 
-[**Learning Objective Functions Incrementally by Inverse Optimal Control**](https://arxiv.org/abs/2010.15034){:target="\_blank"}<br /> 
-Zehui Lu, <b>Wanxin Jin</b>, and Shaoshuai Mou<br />
-In _Asian Control Conference (ASCC)_ , 2022 <br />
-[[PDF]](https://arxiv.org/abs/2010.15034){:target="_blank"} 
-
-
-
-
-2. **D3G: Learning Multi-robot Coordination from Demonstrations** <br/>
-Xuan Wang, YiZhi Zhou, and <b>Wanxin Jin</b><br/>
-Submitted to _IEEE International Conference on Intelligent Robots and Systems (IROS)_, under review  2023.<br />
-[[PDF]](https://arxiv.org/pdf/2207.08892.pdf){:target="_blank"} /
-[[Code]](https://github.com/Shawn-XuanWang/D3G){:target="_blank"} /
-[[Videos]](https://www.youtube.com/watch?v=tLclCYVt3NI){:target="_blank"}
-
-
+11. Khajenejad, M., Afshinmanesh, F., Marandi, A. and Araabi, B.N. “Intelligent Particle Swarm Optimization Using Q-Learning.” Proceeding of IEEE Swarm Intelligence, pp. 7–12, 2006.
 
 
 
@@ -193,59 +96,6 @@ Submitted to _IEEE International Conference on Intelligent Robots and Systems (I
 
 
 
-### Arxiv  Preprints 
 
-<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
-
----
-3. **Neural certificates for safe control policies**<br /> 
-<b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou<br /> 
-Arxiv, 2020. <br/>
-[[PDF]](https://arxiv.org/abs/2006.08465){:target="_blank"}
-
-
-
-
-<p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>
-
-<a name="patents"></a> 
-
-### Granted Patents
----
-4. **Multi-type BGA chip visual recognition method using line-based clustering.** US Patent US9965847 <br/>
-Huijun Gao, <b>Wanxin Jin</b>, Xianqiang Yang, Jinyong Yu, Guanghui Sun, Weiyang Lin, and ZhanLi. 
-
-4.  **Method for recognizing and inspecting BGA chips.** CN105184770A <br/>
-Huijun Gao, <b>Wanxin Jin</b>, Jinyong Yu, Xianqiang Yang, and Hao Sun.
-
-4.  **Algorithm for magnetic core deformation detection.**  CN106247969B <br/>
-Huijun Gao, Jiangyuan Mei, <b>Wanxin Jin</b>, and Xianqiang Yang.
-
-4. **Algorithm for subpixel edge detection in blurred images.** CN106651828B <br/>
-Huijun Gao, <b>Wanxin Jin</b>, Jinyong Yu, and Weiyang Lin. 
-
-4. **Method for segmenting chips in images with non-uniform illumination.** CN106447673A<br/>
- Huijun Gao, <b>Wanxin Jin</b>, Jun Teng, Jinyong Yu, and Xianqiang Yang.
-
-4.  **Co-occurrence matrix method for thread recognition.**  CN105160656B<br/>
-<b>Wanxin Jin</b>, Huijun Gao, Sheng Yin, and Guang Wang.
-
-4. **A grid array graphic code and its recognition.** CN105095937B<br/>
-Huijun Gao, <b>Wanxin Jin</b>, Xianqiang Yang, Jinyong Yu, and Hao Sun. 
-
-4.  **An adaptive image stabilization method.** CN103079037B <br/>
-Xiaoguang Di, <b>Wanxin Jin</b>.
-
-4.  **A fast image stabilization algorithm for large-scale rotational vibrations.**  CN103841296B<br/>
-Xiaoguang Di,  <b>Wanxin Jin</b>, Xuejian Dong, Hongmei Gao, and Jianfei Xu.
-
-4. 	 **Industrial component detection method for surface flaw based on k\_tsl central cluster algorithm.**   CN106373123B<br/>
-Weiyang Lin, Zhan Li, Jiang Yuan Mei, Huijun Gao, <b>Wanxin Jin</b>, Jinyong Yu, Xianqiang Yang, and Hao Sun.
-
-4. 	  **Image motion deblurring using cepstrum potential-energy function.** CN106373106B<br/>
-Huijun Gao, <b>Wanxin Jin</b>, Jinyong Yu, Guanghui Sun, Xianqiang Yang, and Jun Teng.
-
-4.	  **Chip defect detection using co-occurrence matrix and RANSAC.** CN106373124B<br/>
-Huijun Gao, <b>Wanxin Jin</b>, Jinyong Yu, Xianqiang Yang, Weiyang Lin, and Zhan Li.
 
 <div style="text-align: right"> <a href="#top">Back to top</a> </div>
