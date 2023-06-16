@@ -12,7 +12,7 @@ nav: true
 
 
 Multi-Agent Robotics (MURO) Lab at UC San Diego:
-[[https://asu-iris.github.io/](http://muro.ucsd.edu/)]([https://asu-iris.github.io/](http://muro.ucsd.edu/)){:target="_blank"}
+[http://muro.ucsd.edu/](http://muro.ucsd.edu/){:target="_blank"}
 
 
 <p style="margin-bottom:1.6cm"> </p>
