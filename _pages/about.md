@@ -110,35 +110,44 @@ designing efficient set-inversion algorithms.
 
 M. Khajenejad and S.Z. Yong. Tight remainder-form decomposition functions with applications to constrained reachability
 and guaranteed state estimation. in IEEE Transaction on Automatic Control, accepted, 2023.
-<https://ieeexplore.ieee.org/abstract/document/10057091>
+
+https://ieeexplore.ieee.org/abstract/document/10057091
+
 
 M. Khajenejad, F. Shoaib, and S.Z. Yong. Guaranteed state estimation via indirect polytopic set computation for nonlinear
 discrete-time systems. In 60th IEEE Conference on Decision and Control (CDC), pages 6160–6167, 2021.
-<https://ieeexplore.ieee.org/abstract/document/9683626>
+
+https://ieeexplore.ieee.org/abstract/document/9683626
+
 
 **This has resulted in several set-valued stable (and optimal) observer designs for different uncertainty set characterizations, such as intervals , hyperballs, and polytopes:**<br />
 
 M. Khajenejad, F. Shoaib, and S.Z. Yong. Interval observer synthesis for locally lipschitz nonlinear dynamical systems via
 mixed-monotone decompositions. In 2022 American Control Conference (ACC), pages 2970–2975. IEEE, 2022.
+
 https://ieeexplore.ieee.org/abstract/document/9867741
 
 
 M. Khajenejad and S. Z. Yong. H∞-optimal interval observer synthesis for uncertain nonlinear dynamical systems via mixed-
 monotone decompositions. IEEE Control Systems Letters, 6:3088–3013, 2022.
+
 https://ieeexplore.ieee.org/abstract/document/9790824
 
 T. Pati, M. Khajenejad, S.P. Daddala, and S.Z. Yong. L1-robust interval observer design for uncertain nonlinear dynamical
 systems. IEEE Control Systems Letters, 6:3475–3480, 2022.
+
 https://ieeexplore.ieee.org/abstract/document/9803272
 
 
 M. Khajenejad and S.Z. Yong. Simultaneous input and state set-valued H∞-observers for linear parameter-varying systems.
 In American Control Conference (ACC), pages 4521–4526, 2019.
+
 https://ieeexplore.ieee.org/abstract/document/8814909
 
 
 M. Khajenejad, F. Shoaib, and S. Z. Yong. Guaranteed state estimation via direct polytopic set computation for nonlinear
 discrete-time systems. IEEE Control Systems Letters, 6:2060–2065, 2021.
+
 https://ieeexplore.ieee.org/abstract/document/9683626
 
 
