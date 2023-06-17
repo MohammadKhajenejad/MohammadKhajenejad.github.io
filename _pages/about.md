@@ -177,15 +177,15 @@ I have designed tractable algorithms to simultaneously estimate the state and th
 
 M. Khajenejad and S.Z. Yong. Simultaneous state and unknown input set-valued observers for quadratically constrained
 nonlinear dynamical systems. International Journal of Robust and Nonlinear Control, 32:6589–6622, 2022.
+https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6163
 
 M. Khajenejad and S.Z. Yong. Resilient state estimation and attack mitigation in cyber-physical systems. In Security and
 Resilience in Cyber-Physical Systems: Detection, Estimation and Control, pages 149–185. Springer, 2022.
+https://link.springer.com/chapter/10.1007/978-3-030-97166-3_7
 
 M. Khajenejad and S.Z. Yong. Simultaneous mode, input and state set-valued observers with applications to resilient estimation
 against sparse attacks. In 58th IEEE Conference on Decision and Control (CDC), pages 1544–1550, 2019.
-
-M. Khajenejad and S.Z. Yong. Simultaneous mode, state and input set-valued observers for multimodal and switched nonlinear
-systems. arXiv preprint arXiv:2102.10793, submitted, 2022.
+https://ieeexplore.ieee.org/abstract/document/9029594
 
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
