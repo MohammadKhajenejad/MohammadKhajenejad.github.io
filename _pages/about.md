@@ -66,7 +66,7 @@ We won the award for Basic and Applied Scientific Research (W911NF-17-S-0003-AI2
 -----
 #### **My Research**
 <center>
-<img src="collections/research/maintheme/maintheme.gif"  width="500"  alt="centered image" />
+<img src="collections/research/maintheme/maintheme.gif"  width="500"  alt="centered image" repeat />
 </center>
 <br />
   
