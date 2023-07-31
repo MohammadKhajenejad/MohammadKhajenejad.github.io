@@ -65,7 +65,7 @@ We won the award for Basic and Applied Scientific Research (W911NF-17-S-0003-AI2
 
 -----
 #### **My Research**
-
+<img src="collections/research/maintheme/maintheme.gif"  width="140"  align="left" hspace="30" vspace=0 />
 A large number of <strong>cyber-physical systems (CPS)</strong>, such as unmanned aircraft systems, smart power grids, industrial robots, intelligent robotic systems, autonomous vehicles, transportation networks, air traffic systems and supply chains, are characterized as collections of interacting subsystems with ambiguous or unknown models, and are acted upon by multiple decision makers with hard-to-model and heterogeneous intentions and behaviors(malicious, competitive, cooperative, stubborn). Such large scale systems are present in all societal sectors, from critical infrastructure, manufacturing and agriculture to service sectors.
 Motivated by this, my goal is to design <strong>distributed, tractable, robust, safe and private</strong> sequential decision-making algorithms in multi-modal and switched cyber-physical systems that are compromised by adversarial or malicious agents, and are subject to various forms of real-world uncertainties. 
 To accomplish this objective, I will leverage <strong>model-based control-theoretic</strong>, as well as <strong>data-driven learning approaches</strong> to develop:
